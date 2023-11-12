@@ -2,8 +2,6 @@
 This repository contains a sender/receiver program written in GNU C for transmitting files and file contents over TCP sockets using the Linux operating system. The program is designed for a group of two students to work on and is intended for educational purposes.
 # Audio File TCP Transmitter and Receiver
 
-**Repository Name:** AudioFileTCPTransmitterReceiver
-
 **Description:** This GitHub repository hosts a sender/receiver program designed for educational purposes. The program is written in GNU C and is meant for a group of two students. It facilitates the transmission of audio file contents over TCP sockets using the Linux operating system.
 
 ## Functional Requirements
